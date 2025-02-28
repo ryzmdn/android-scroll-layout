@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_bali">Bali</string>
+    <string name="title_jakarta">Jakarta</string>
+    <string name="title_komodoisland">Komodo Island</string>
+    <string name="title_lombok">Lombok</string>
+    <string name="title_rajaampat">Raja Ampat</string>
+    <string name="title_yogyakarta">Yogyakarta</string>
+    <string name="top_title">Tourist Destination</string>
+    <string name="middle_title">Favourite Collections</string>
+    <string name="bottom_nav_home">Home</string>
+    <string name="bottom_nav_profile">Profile</string>
+</resources>
